@@ -17,6 +17,7 @@ The program consists of three main Python files:
 
   The program will generate an SVG file named pattern.svg in the same directory as the script.
   Expected Result:
+  > Important: The program currently requires users to edit main.py directly to set measurements. Future updates may include support for command-line arguments or configuration files for easier input.
+> 
   ![Image](https://github.com/user-attachments/assets/36fe11af-014e-4df4-bb5c-bd5a928d25d3)
 
-> Important: The program currently requires users to edit main.py directly to set measurements. Future updates may include support for command-line arguments or configuration files for easier input.
