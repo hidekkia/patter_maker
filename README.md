@@ -20,17 +20,15 @@ pattern_logic.py: Handles the calculations and conversions from measurements (in
 svg_generator.py: Uses the drawsvg library to create the SVG pattern based on the coordinates provided by pattern_logic.py.
 
 
-Usage
+<H2>Usage</H2>
 
 
 
 
 
-Open main.py and locate the section where measurements are defined. Edit these variables to input your desired measurements.
-
-
-
-Run the program using Python:
+1. Open main.py and locate the section where measurements are defined.
+2. Edit these variables to input your desired measurements.
+3. Run the program using Python:
 
 python main.py
 
@@ -38,4 +36,4 @@ python main.py
 
 The program will generate an SVG file named pattern.svg in the same directory as the script.
 
-Important: The program currently requires users to edit main.py directly to set measurements. Future updates may include support for command-line arguments or configuration files for easier input.
+> Important: The program currently requires users to edit main.py directly to set measurements. Future updates may include support for command-line arguments or configuration files for easier input.
