@@ -17,6 +17,6 @@ The program consists of three main Python files:
 
   The program will generate an SVG file named pattern.svg in the same directory as the script.
   Expected Result:
-  ![alt text](file:///D:/tailored%20pattern%20maker%202.0/GU_pattern_test.svg)
+  [![alt text](file:///D:/tailored%20pattern%20maker%202.0/GU_pattern_test.svg)](https://github.com/hidekkia/patter_maker/issues/1#issue-3050601133)
 
 > Important: The program currently requires users to edit main.py directly to set measurements. Future updates may include support for command-line arguments or configuration files for easier input.
