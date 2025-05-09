@@ -1,4 +1,4 @@
-# Tailored Pattern Maker
+
 <H2>Description</H2>
 
 Tailored Pattern Maker is a Python program designed to generate custom sewing patterns in SVG format based on user-provided measurements. This tool is ideal for creating precise patterns for clothing or other fabric-based projects. The generated SVG files can be easily imported into vector graphics software (such as Inkscape or Adobe Illustrator) for further editing or used directly for cutting fabric.
