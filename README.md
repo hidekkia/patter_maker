@@ -16,5 +16,7 @@ The program consists of three main Python files:
 3. Run the program using Python (main.py):
 
   The program will generate an SVG file named pattern.svg in the same directory as the script.
+  Expected Result:
+  ![alt text](file:///D:/tailored%20pattern%20maker%202.0/GU_pattern_test.svg)
 
 > Important: The program currently requires users to edit main.py directly to set measurements. Future updates may include support for command-line arguments or configuration files for easier input.
