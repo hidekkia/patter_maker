@@ -5,17 +5,15 @@ Tailored Pattern Maker is a Python program designed to generate custom sewing pa
 
 The program consists of three main Python files:
 
-1. main.py: Contains the user-defined measurements and orchestrates the program's execution.
-2. pattern_logic.py: Handles the calculations and conversions from measurements (in inches) to coordinates.
-3. svg_generator.py: Uses the drawsvg library to create the SVG pattern based on the coordinates provided by pattern_logic.py.
+1. **main.py**: Contains the user-defined measurements and orchestrates the program's execution.
+2. **pattern_logic.py**: Handles the calculations and conversions from measurements (in inches) to coordinates.
+3. **svg_generator.py**: Uses the drawsvg library to create the SVG pattern based on the coordinates provided by pattern_logic.py.
 
 <H2>Usage</H2>
 
 1. Open main.py and locate the section where measurements are defined.
-2. Edit these variables to input your desired measurements.
-3. Run the program using Python:
-
-  python main.py
+2. Edit the variables to input your desired measurements.
+3. Run the program using Python (main.py):
 
   The program will generate an SVG file named pattern.svg in the same directory as the script.
 
